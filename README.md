@@ -7,12 +7,12 @@
 Javascriptのライブラリをいくつか用いて
 スクロールで動きが出るパララックスデザインのサイト作成しました。
 
-利用したライブラリ
-・jQuery
-・ScrollMagic
-・TweenMax
-・TimelineMax
-・Velocity
+利用したライブラリ  
+・jQuery  
+・ScrollMagic  
+・TweenMax  
+・TimelineMax  
+・Velocity  
 
 
 ## Usage
