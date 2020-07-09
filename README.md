@@ -52,20 +52,16 @@ https://codepen.io/kymd3/pen/LYGzEWe
     
 ・jQuery
  <script src="http://code.jquery.com/jquery-3.3.1.js"></script>
-   
-   
+ 
 ・ScrollMagic
 <script src="http://cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.5/ScrollMagic.min.js"></script>
-  
-  
+
 ・TweenMax
 <script src="http://cdnjs.cloudflare.com/ajax/libs/gsap/latest/TweenMax.min.js"></script>
-  
-  
+
 ・TimelineMax
 <script src="http://cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.7/plugins/animation.gsap.min.js"></script>
-  
-  
+
 ・Velocity
 <script src="http://cdnjs.cloudflare.com/ajax/libs/velocity/1.1.0/velocity.js"></script>  
 <script src="http://cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.5/plugins/animation.velocity.min.js"></script>
