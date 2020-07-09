@@ -31,17 +31,19 @@ https://codepen.io/kymd3/pen/LYGzEWe
 ⑶　タイトル、サブタイトル  
 各タイトル、サブタイトルにそれそれエフェクトがついています。  
   
-<img width="767" alt="無題 png 左メニュー (2)" src="https://user-images.githubusercontent.com/65747602/86985568-7d6ce880-c1cc-11ea-8582-dacb48867f76.png">
+<img width="500" alt="無題 png 左メニュー (2)" src="https://user-images.githubusercontent.com/65747602/86986336-66c79100-c1ce-11ea-9df3-498d404e4881.png">
   
-<img width="769" alt="2020-07-09 (5)" src="https://user-images.githubusercontent.com/65747602/86985575-865dba00-c1cc-11ea-8abe-d6b7458ec06b.png">
+<img width="500" alt="2020-07-09 (5)" src="https://user-images.githubusercontent.com/65747602/86986339-68915480-c1ce-11ea-8b09-60fbea39209d.png">
   
-<img width="774" alt="2020-07-09 (8)" src="https://user-images.githubusercontent.com/65747602/86985578-878ee700-c1cc-11ea-9288-d71fea6c01f2.png">
-
+<img width="500" alt="2020-07-09 (8)" src="https://user-images.githubusercontent.com/65747602/86986341-69c28180-c1ce-11ea-8d1e-19bde18dca8d.png">
+  
   
 ⑷　ハンバーガーメニュー  
 右上のメニューボタンをクリックすると、画面右半分にメニュー画面が表示されます。    
 メニュー欄からそれぞれのメニューを選択しクリックすると  
 メニューが閉じ、該当ページへスムーズスクロールで移動します。  
   
-<img width="765" alt="無題 png　ハンバーガーメニュー (2)" src="https://user-images.githubusercontent.com/65747602/86985580-8958aa80-c1cc-11ea-8bca-705d5ec3a5d9.png">
+<img width="500" alt="無題 png　ハンバーガーメニュー (2)" src="https://user-images.githubusercontent.com/65747602/86986349-6dee9f00-c1ce-11ea-8ab3-5657c75239c2.png">
+  
+<img width="500" alt="2020-07-09 (7)" src="https://user-images.githubusercontent.com/65747602/86986384-865eb980-c1ce-11ea-8116-c42710b411eb.png">
 
