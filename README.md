@@ -33,7 +33,7 @@ https://codepen.io/kymd3/pen/LYGzEWe
   
 <img width="500" alt="無題 png 左メニュー (2)" src="https://user-images.githubusercontent.com/65747602/86986336-66c79100-c1ce-11ea-9df3-498d404e4881.png">
   
-<img width="500" alt="2020-07-09 (5)" src="https://user-images.githubusercontent.com/65747602/86986339-68915480-c1ce-11ea-8b09-60fbea39209d.png">
+<img width="500" alt="2020-07-09 (8)" src="https://user-images.githubusercontent.com/65747602/86987025-05a0bd00-c1d0-11ea-85af-9650ec3f4717.png">
   
 <img width="500" alt="2020-07-09 (8)" src="https://user-images.githubusercontent.com/65747602/86986341-69c28180-c1ce-11ea-8d1e-19bde18dca8d.png">
   
