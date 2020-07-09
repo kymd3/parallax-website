@@ -17,7 +17,7 @@ Javascriptのライブラリをいくつか用いて
 
 ## Usage
   
-↓こちらのURLですぐに動作を確認することができます↓  
+こちらのURLですぐに動作を確認することができます:point_down:  
 https://codepen.io/kymd3/pen/LYGzEWe
   
 ⑴　左サイドメニュー  
