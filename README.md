@@ -63,6 +63,6 @@ https://codepen.io/kymd3/pen/LYGzEWe
 <script src="http://cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.7/plugins/animation.gsap.min.js"></script>
   
 ・Velocity  
-<script src="http://cdnjs.cloudflare.com/ajax/libs/velocity/1.1.0/velocity.js"></script>
+<script src="http://cdnjs.cloudflare.com/ajax/libs/velocity/1.1.0/velocity.js"></script>  
 <script src="http://cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.5/plugins/animation.velocity.min.js"></script>
     
