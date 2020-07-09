@@ -32,11 +32,11 @@ https://codepen.io/kymd3/pen/LYGzEWe
 ⑶　タイトル、サブタイトル  
 各タイトル、サブタイトルにそれそれエフェクトがついています。 
   
-<img width="500" alt="無題 png 左メニュー (2)" src="https://user-images.githubusercontent.com/65747602/86986336-66c79100-c1ce-11ea-9df3-498d404e4881.png">
+<img width="500" alt="2020-07-09 (10)" src="https://user-images.githubusercontent.com/65747602/86990164-ef4a2f80-c1d6-11ea-8445-217066405d7a.png">
   
-<img width="500" alt="2020-07-09 (9)" src="https://user-images.githubusercontent.com/65747602/86987078-2e28b700-c1d0-11ea-9d22-740fdc06ed1b.png">
+<img width="500" alt="2020-07-09 (11)" src="https://user-images.githubusercontent.com/65747602/86990169-f2452000-c1d6-11ea-8df4-cf9d9710b5e8.png">
   
-<img width="500" alt="2020-07-09 (8)" src="https://user-images.githubusercontent.com/65747602/86986341-69c28180-c1ce-11ea-8d1e-19bde18dca8d.png">
+<img width="500" alt="2020-07-09 (12)" src="https://user-images.githubusercontent.com/65747602/86990175-f40ee380-c1d6-11ea-8fbd-e46d02aff2d9.png">
   
   
 ⑷　ハンバーガーメニュー  
@@ -44,7 +44,7 @@ https://codepen.io/kymd3/pen/LYGzEWe
 メニュー欄からそれぞれのメニューを選択しクリックすると  
 メニューが閉じ、該当ページへスムーズスクロールで移動します。  
   
-<img width="500" alt="無題 png　ハンバーガーメニュー (2)" src="https://user-images.githubusercontent.com/65747602/86986349-6dee9f00-c1ce-11ea-8ab3-5657c75239c2.png">
+<img width="500" alt="ハンバーガーメニュー2020-07-09 (10) png　" src="https://user-images.githubusercontent.com/65747602/86990181-f5d8a700-c1d6-11ea-9728-5966179c6092.png">
   
 <img width="500" alt="2020-07-09 (7)" src="https://user-images.githubusercontent.com/65747602/86986384-865eb980-c1ce-11ea-8116-c42710b411eb.png">
 
