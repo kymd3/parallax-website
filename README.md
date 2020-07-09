@@ -51,7 +51,7 @@ https://codepen.io/kymd3/pen/LYGzEWe
 ## Install by CDN
   
 ・jQuery
- <script src="http://code.jquery.com/jquery-3.3.1.js"></script>
+```<script src="http://code.jquery.com/jquery-3.3.1.js"></script>```
  
    
 ・ScrollMagic
