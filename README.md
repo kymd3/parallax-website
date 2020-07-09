@@ -1,4 +1,4 @@
-# newRead
+# newRead:blush:
 
 パララックスデザインの実装練習
 
@@ -39,7 +39,7 @@ https://codepen.io/kymd3/pen/LYGzEWe
 <img width="500" alt="2020-07-09 (12)" src="https://user-images.githubusercontent.com/65747602/86990175-f40ee380-c1d6-11ea-8fbd-e46d02aff2d9.png">
   
   
-⑷　ハンバーガーメニュー  
+⑷　ハンバーガーメニュー:hamburger:  
 右上のメニューボタンをクリックすると、画面右半分にメニュー画面が表示されます。    
 メニュー欄からそれぞれのメニューを選択しクリックすると  
 メニューが閉じ、該当ページへスムーズスクロールで移動します。  
