@@ -1,4 +1,4 @@
-# parallax-website:blush:
+# parallax-website
 
 パララックスデザインの実装練習
 
