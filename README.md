@@ -1,4 +1,4 @@
-# newRead:blush:
+# parallax-website:blush:
 
 パララックスデザインの実装練習
 
